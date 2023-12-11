@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Cloudwarehouse repository! 👋🏻</h1>
+<h1 align="center">Welcome to houzz repository! 👋🏻</h1>
 
 ![Screenshot](https://github.com/kdandy/houzz/assets/50922642/30490186-df18-4958-b787-89207503da0a)
 
@@ -11,10 +11,10 @@
 <p></p>
 
 <p align="center">
-	<img src="https://img.shields.io/github/issues/kdandy/Cloudwarehouse?style=flat-square">
-	<img src="https://img.shields.io/github/stars/kdandy/Cloudwarehouse?style=flat-square"> 
-	<img src="https://img.shields.io/github/forks/kdandy/Cloudwarehouse?style=flat-square">
-	<img src="https://img.shields.io/github/license/kdandy/Cloudwarehouse?style=flat-square">
+	<img src="https://img.shields.io/github/issues/kdandy/houzz?style=flat-square">
+	<img src="https://img.shields.io/github/stars/kdandy/houzz?style=flat-square"> 
+	<img src="https://img.shields.io/github/forks/kdandy/houzz?style=flat-square">
+	<img src="https://img.shields.io/github/license/kdandy/houzz?style=flat-square">
 	<img src="https://img.shields.io/badge/maintained%3F-no-red.svg?style=flat-square">
 	<img src="https://img.shields.io/github/followers/kdandy.svg?style=flat-square&label=followers">
 </p>
@@ -30,14 +30,14 @@
 
 <p></p>
 
-<h2 id="about">🐱‍🏍 About Cloudwarehouse</h2>
+<h2 id="about">🐱‍🏍 About houzz</h2>
 A free open-source website template and production ready to start your startup, social media or portfolio website easily and blazingly fast by just changing the assets and text
 
 <p></p>
 
 <h2 id="demo">🏠 Demo Page</h2>
 
-You can find and view the demo in [here](https://cloudwarehouse.netlify.app/)
+You can find and view the demo in [here](https://houzz.vercel.app/)
 
 <p></p>
 
@@ -47,7 +47,7 @@ To run this application or web, at least one web browser is installed on your co
 
 ```bash
 # Clone this repository or download in
-$ git clone https://github.com/kdandy/Cloudwarehouse.git
+$ git clone https://github.com/kdandy/houzz.git
 
 # Double click the index.html in azure folder or open folder in visual studio code or another IDE you use to edit it!
 
@@ -73,8 +73,8 @@ Since I finished this project myself, but there are many features and many thing
 
 <h2 id="license">📝 License</h2>
 
-- Copyright © 2022 DANDY FAISHAL FAHMI
-- Cloudwarehouse is an open-source web application licensed under the MIT license
+- Copyright © 2023 DANDY FAISHAL FAHMI
+- houzz is an open-source web application licensed under the MIT license
 
 ---
 
