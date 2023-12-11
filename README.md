@@ -47,7 +47,7 @@ To run this application or web, at least one web browser is installed on your co
 
 ```bash
 # Clone this repository or download in
-$ git clone https://github.com/kdandy/houzz.git
+# git clone https://github.com/kdandy/houzz.git
 
 # Double click the index.html in azure folder or open folder in visual studio code or another IDE you use to edit it!
 
