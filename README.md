@@ -1,6 +1,7 @@
 <h1 align="center">Welcome to Cloudwarehouse repository! 👋🏻</h1>
 
-![Screenshot](https://user-images.githubusercontent.com/50922642/155069428-6b5202e2-0320-428f-b14a-99a6a596dab7.jpg)
+![Screenshot](https://github.com/kdandy/houzz/assets/50922642/30490186-df18-4958-b787-89207503da0a)
+
 
 <p></p>
 
